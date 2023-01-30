@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject>DrawingApp.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DrawingApp.BusinessLayer\DrawingApp.BusinessLayer.csproj" />
+  </ItemGroup>
+
+</Project>

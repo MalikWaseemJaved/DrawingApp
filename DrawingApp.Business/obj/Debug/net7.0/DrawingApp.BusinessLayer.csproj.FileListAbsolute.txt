@@ -1,0 +1,12 @@
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\bin\Debug\net7.0\DrawingApp.BusinessLayer.deps.json
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\bin\Debug\net7.0\DrawingApp.BusinessLayer.dll
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\bin\Debug\net7.0\DrawingApp.BusinessLayer.pdb
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\obj\Debug\net7.0\DrawingApp.BusinessLayer.csproj.AssemblyReference.cache
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\obj\Debug\net7.0\DrawingApp.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\obj\Debug\net7.0\DrawingApp.BusinessLayer.AssemblyInfoInputs.cache
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\obj\Debug\net7.0\DrawingApp.BusinessLayer.AssemblyInfo.cs
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\obj\Debug\net7.0\DrawingApp.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\obj\Debug\net7.0\DrawingApp.BusinessLayer.dll
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\obj\Debug\net7.0\refint\DrawingApp.BusinessLayer.dll
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\obj\Debug\net7.0\DrawingApp.BusinessLayer.pdb
+D:\TFS Angular\Widgets\DrawingApp.BusinessLayer\obj\Debug\net7.0\ref\DrawingApp.BusinessLayer.dll
